@@ -11,7 +11,7 @@ from boot import boo
 kk = web()
 texto = webscraping()
     #Token
-TOKEN = ("1694856172:AAELynQUXMIMxKx2FdL4p7i9i0uJTbLalKI")
+TOKEN = ("key")
 bot = telebot.TeleBot(TOKEN)
     #Commands
 @bot.message_handler(commands=['start'])
