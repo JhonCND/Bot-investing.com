@@ -1,0 +1,1 @@
+helping = "Volatilid. Esperada Baixa ⭐️\nVolatilid. Esperada Moderada ⭐️⭐️\nVolatilid. Esperada Alta ⭐️⭐️⭐️\n\n\n\nOi humano, Sou um bot de capturas de noticias\n\nFeedback-@JhonCND\nBugs, Bot Parou de funcionar\n\n🟥(ATENÇAO CASO DE FLOOD, O BOT IRAR RETONAR TODOS OS COMANDOS CHAMADOS:)🟥\n\nCOMANDOS:\n/help\n/start\nLista Antiga\n/start2"
