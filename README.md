@@ -1,4 +1,10 @@
 # Bot-investing.com
 
-## infomaçoes
-Bot coleta infomaçoes do site [Electron](https://br.investing.com/economic-calendar/), Compacta e publica no telegram
+## Infomaçoes
+Bot coleta infomaçoes do site [investing.com](https://br.investing.com/economic-calendar/), Compacta e publica no telegram
+
+## Construindo com:
+
+* [beatifullsup](#)
+* [python](#)
+* [telegram api](#)
