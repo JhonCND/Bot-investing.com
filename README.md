@@ -19,7 +19,7 @@ Bot coleta infomaçoes do site [investing.com](https://br.investing.com/economic
 
 ## Construindo com
 
-* [Beatifullsup](https://pypi.org/project/beautifulsoup4/)
+* [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 * [Python](https://www.python.org/)
 * [Telegram-Api](https://core.telegram.org/bots)
 * [telebot](https://pypi.org/project/telebot/)
