@@ -16,8 +16,6 @@ Bot coleta infomaçoes do site [investing.com](https://br.investing.com/economic
 ## Duvidas
 #### Funso Horario
  > Ainda nao fiz teste do funso horario, faça o teste antes:)
-#### Funso Horario
- > Ainda nao fiz teste do funso horario, faça o teste antes:)
 
 ## Construindo com
 
