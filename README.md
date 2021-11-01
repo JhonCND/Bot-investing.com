@@ -27,5 +27,4 @@ Bot coleta infomaçoes do site [investing.com](https://br.investing.com/economic
 ## Créditos
 * [@Ladson](https://github.com/ladsong) Por ajudar no bug do WebScriping S2
 * [@Joao](https://github.com/Porfirio-Prodigy) Por me ajudar em muitas duvidas S2
-
-*Sem eles demoraria 10x mais para finalizar
+* Sem eles demoraria 10x mais para finalizar
