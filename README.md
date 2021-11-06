@@ -1,6 +1,19 @@
-# Bot-investing.com
+![Bot-investing com (1)](https://user-images.githubusercontent.com/68496527/140592439-7bfa6a6f-0cf2-4919-948c-55ba79943b00.png)
 
-Bot coleta infomaçoes do site [investing.com](https://br.investing.com/economic-calendar/), Compacta e publica no telegram/Grupo
+[![License](https://img.shields.io/badge/Python-v3.9-green)](./LICENSE)
+[![License](https://img.shields.io/badge/Status-Developing-green)](./LICENSE)
+
+Bot-investing, Coleta informações do site [investing.com](https://br.investing.com/economic-calendar/), Compacta e publica no telegram/Grupo
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install requests
+pip install telebot
+pip install BeautifulSoup
+```
 
 ## Project Overview
 
