@@ -12,7 +12,7 @@ kk = web()
 texto = webscraping()
     #Token
 TOKEN = ("key")
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot('1694856172:AAELynQUXMIMxKx2FdL4p7i9i0uJTbLalKI')
     #Commands
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
